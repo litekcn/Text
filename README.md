@@ -1,5 +1,5 @@
 <div align = "center">
-  <img src="https://img.js.design/assets/img/633f8ae87ca7bb9a4f8a87b7.png"/>
+  <img src="https://alpha-q3.sourcegcdn.com/2022/10/11/Hbp146wP.png">
   <h1>Vlesa</h1>
   <p><b>✍ Next Generation Static Website Framework.</b></p>
   <p><b>🧪 Now Developing | <a href="https://github.com/clsea/WikiPress/">💾 Docs</a> |<a href="https://github.com/clsea/WikiPress/">💾 Demo</a></b></p>
