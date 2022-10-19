@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "main.go": {
+      "maxDuration": 5
+    }
+  }
+  "routes": [
+    { "src": "/admin", "dest": "admin/index.html" },
+    { "src": "/user", "dest": "user/index.go" },
+    { "src": "/install", "dest": "install.html" }
+  ]
+}
