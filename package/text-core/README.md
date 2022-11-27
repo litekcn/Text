@@ -1,0 +1,3 @@
+# LiText Core
+
+Text Core
